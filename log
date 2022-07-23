@@ -1,0 +1,18 @@
+git branch -m <name>
+    >   change name from master to main
+    
+
+    
+git remote add origin [ http | ssh ]
+git push -u origin master
+
+
+
+git init
+git add .
+git commit -m ''
+
+
+git branch -m main
+git remote add
+git push -u origin main
